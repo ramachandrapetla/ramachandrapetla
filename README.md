@@ -2,22 +2,23 @@
 
 I'm a full stack developer
 
-I work on different technologies. Feeling bit confuesed on choosing my personal stack
+I work on different technologies. My choice of stack is MERN
 
 <!--
 **ramachandrapetla/ramachandrapetla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Focussed on exploring Node.js and RESTful API development using express.js
+- 🌱 I’m currently trying to build my stack. (Possibly MERN)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
 -->
 
-- 🌱 I’m currently trying to build my stack. (Possibly MERN)
-- 🤔 I'm trying to build a blogging site
+- 🔭 Focussed on exploring Node.js and RESTful API development using express.js
+- 🤔 Working on building fabric-hyperledger simulator
 
 ## 📫 Know more about me at 
 <p>
