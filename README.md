@@ -10,7 +10,7 @@ I work on different technologies. My choice of stack is MERN
 Here are some ideas to get you started:
 
 - 🔭 Focussed on exploring Node.js and RESTful API development using express.js
--    Springboot API Developer
+- 🔭 Springboot API Developer
 - 🌱 I’m currently trying to build my stack. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Focussed on exploring Node.js and RESTful API development using express.js
+- 🔭 Springboot API Developer
 - 🤔 Working on building fabric-hyperledger simulator
 
 ## 📫 Know more about me at 
