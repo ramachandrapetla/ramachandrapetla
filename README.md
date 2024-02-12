@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 <p>
 <a href="https://www.linkedin.com/in/ramachandrapetla/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
+
+
+<div align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ramachandrapetla&&show_icons=true&theme=dark&locale=en&layout=compact" alt="202682" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramachandrapetla&show_icons=true&theme=dark&locale=en&layout=compact" alt="202682" />
+</div>
